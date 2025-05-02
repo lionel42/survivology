@@ -104,4 +104,83 @@ Les différents organes du corps sont spécialisés et interagissent entre eux p
 Ces organes sont eux-mêmes composés de cellules spécialisées qui interagissent entre elles pour assurer la survie de l'organe.
 Certains organes comme l'estomac contiennent eux même des bactéries et d'autres organismes qui les aident à fonctionner.
 Mais le plus intéressant est le cerveau.
-Le cerveau est un organe qui permet de traiter l'information et de prendre des décisions. Il permet prédire comment l'environnement va évoluer, de prendre des décisions et ainsi d'optimiser la survie.
+Le cerveau est un organe qui permet de traiter l'information et de prendre des décisions.
+Il permet prédire comment l'environnement va évoluer, de prendre des décisions et ainsi d'optimiser la survie.
+
+
+## Groupe
+
+De nombreux animaux vivent en groupe et forment ainsi une société.
+Des abeilles aux éléphants, en passant par les oiseaux et les poissons,
+la vie en groupe est une stratégie de survie efficace.
+Bien entendu pour un individu, ce n'est pas toujours forcément un bénéfice,
+mais de manière générale, vivre en collectif donne des avantages
+protecteurs, reproductifs et alimentaires.
+
+De nouveaux comportement émergent de la vie sociétale.
+
+La communication est le pilier principal de la coordination
+entre les membres d'un groupe.
+
+La communication permet de partager des informations sur l'environnement,
+d'alerter d'un danger, de coordonner des actions collectives ou
+encore de partager des ressources.
+Elle permet aussi de transmettre les informations acquise par un membre
+aux autres mais aussi à la génération suivante.
+
+La division des tâches, très connue chez les abeilles, permet
+de spécialiser les membres d'un groupe, optimisant ainsi l'efficacité
+pour la reproduction, la défense et la recherche de nourriture.
+
+Cependant, la vie en groupe ajoute aussi des risques.
+La compétition entre les membres d'un groupe peut être très forte,
+notemment pour accéder au sommet de la hiérarchie sociale.
+C'est un cas intéressant car il montre que certains individus
+profitent pour faire primer leur survie en tant qu'individu
+sur la survie du groupe.
+
+La proximité entre les membres accroit le risque de maladies infectieuses
+ainsi que de maladies génétiques dues à la consanguinité.
+
+Finalement le groupe peut être considéré comme une entité à un
+niveau supérieur, qui reproduit des ingrédients de survie
+qu'on trouve au niveau des individus
+- la communication
+- la division des tâches
+- la spécialisation
+- la compétition entre membres
+Mais ces comportements sont maintenant énormement complexifiés.
+
+
+
+
+## Société humaine
+
+Quelle est la différence entre notre société et celles des autres animaux ?
+
+Difficile à dire, mais étant des êtres humains, nous avons tendance à
+toujours vouloir nous mettre au dessus du règne animal.
+
+Pourtant tous les comportement que nous observons sont des comportements
+de groupe qui sont amplifiés par ce que nous avons bati.
+
+Une différence intéressante est la variété de groupes créés par
+les humains.
+
+Nous avons créés par example, la famille, basée sur les liens génétiques.
+Les religions, fondées sur des croyances et pratiques communes.
+Les nations, basées sur l'appartenance géographique et culturelle.
+Les entreprises et associations, basées sur des
+objectifs de créations communs.
+Les organisations internationale, fondée sur la coopération entre toutes
+les nations.
+Les courants idéologiques, politiques et philosphiques, promovant des
+valeurs et des idées communes.
+La protection de l'environnement, qui dépasse notre espèce
+par sa volonté de préserver toutes les espèces vivantes.
+
+Chacuns de ces groupes ou entités peut être considérée pour sa survie.
+Un  des objectifs de ce livre est justement de comprendre
+les enjeux de survie de ces entités et de leurs implications
+sur notre monde.
+
